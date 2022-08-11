@@ -710,6 +710,18 @@ main {
   font-size: 22px;
 }
 
+.maincontent .content-main .fullcontent h5 {
+  color: #fff;
+}
+
+.maincontent .content-main .fullcontent ol {
+  list-style: square;
+}
+
+.maincontent .content-main .fullcontent ol li {
+  font-size: 18px;
+}
+
 .modal-dialog .modal-content {
   background-color: transparent;
   border: none;
@@ -766,8 +778,16 @@ main {
   height: 500px;
 }
 
+.modal-dialog .modal-content .modal-body .tab-content .tab-pane h5 {
+  color: #fff;
+}
+
 .modal-dialog .modal-content .modal-body .tab-content .tab-pane table, .modal-dialog .modal-content .modal-body .tab-content .tab-pane p {
   font-size: 1.1rem;
+}
+
+.modal-dialog .modal-content .modal-body .tab-content .tab-pane ol {
+  list-style: square;
 }
 
 .modal-dialog .modal-content .modal-body .tab-content .tab-pane ol li {

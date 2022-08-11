@@ -150,6 +150,10 @@ main {position: relative;height: 100vh;}
           }
         }
       }
+      h5{color: #fff;}
+      ol{list-style: square;
+        li{font-size: 18px;}
+      }
     }
   }
 }
@@ -168,8 +172,9 @@ main {position: relative;height: 100vh;}
       img{max-width: 100%;margin: 0 auto;display: block;}
       .tab-content{
         .tab-pane{overflow-y: scroll;height:500px;
+          h5{color: #fff;}
           table, p{font-size: 1.1rem;}
-          ol{
+          ol{list-style: square;
             li{font-size: 1rem;}
           }
         }
