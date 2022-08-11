@@ -679,6 +679,11 @@ main {
   border: none;
 }
 
+.maincontent .content-main .fullcontent p {
+  font-size: 22px;
+  font-weight: 400;
+}
+
 .maincontent .content-main .fullcontent .tab-content {
   height: 100%;
 }
@@ -763,6 +768,10 @@ main {
 
 .modal-dialog .modal-content .modal-body .tab-content .tab-pane table, .modal-dialog .modal-content .modal-body .tab-content .tab-pane p {
   font-size: 1.1rem;
+}
+
+.modal-dialog .modal-content .modal-body .tab-content .tab-pane ol li {
+  font-size: 1rem;
 }
 
 /*==FOOTER=*/

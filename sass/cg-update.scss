@@ -138,6 +138,7 @@ main {position: relative;height: 100vh;}
         .nav-link{font-size: 27px;color: #224643;font-weight: 700;border: none;}
         .nav-link.active{background-color: transparent;color: #892016;border: none;}
       }
+      p{font-size: 22px;font-weight: 400;}
       .tab-content{height: 100%;
         .tab-pane{overflow-y: auto;
           p{font-size: 22px;font-weight: 400;}
@@ -168,6 +169,9 @@ main {position: relative;height: 100vh;}
       .tab-content{
         .tab-pane{overflow-y: scroll;height:500px;
           table, p{font-size: 1.1rem;}
+          ol{
+            li{font-size: 1rem;}
+          }
         }
       }
     }
