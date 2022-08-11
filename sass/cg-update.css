@@ -722,6 +722,10 @@ main {
   font-size: 18px;
 }
 
+.maincontent .content-main .fullcontent .luuy {
+  color: #ff0000;
+}
+
 .modal-dialog .modal-content {
   background-color: transparent;
   border: none;
@@ -792,6 +796,10 @@ main {
 
 .modal-dialog .modal-content .modal-body .tab-content .tab-pane ol li {
   font-size: 1rem;
+}
+
+.modal-dialog .modal-content .modal-body .tab-content .tab-pane .luuy {
+  color: #ff0000;
 }
 
 /*==FOOTER=*/
